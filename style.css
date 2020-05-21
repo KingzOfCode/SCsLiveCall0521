@@ -1,0 +1,13 @@
+body{
+    font-size: 30px;
+    color: rebeccapurple;
+    background-color: black;
+}
+
+/* do this with flexbox froggy */
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
