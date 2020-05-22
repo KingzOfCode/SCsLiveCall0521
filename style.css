@@ -1,5 +1,5 @@
 body{
-    font-size: 30px;
+    font-size: 125px;
     color: rebeccapurple;
     background-color: black;
 }
@@ -10,4 +10,5 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Changa';
 }
